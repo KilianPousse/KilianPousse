@@ -6,5 +6,5 @@ This GitHub is my repository for my personal and academic projects.
 
 ## List of university projects
 - **Tomogashi_Island:** Life management video game in the style of Animal Crossing, Stardew Valley (C:SDL)
-- **Sudoku:**
+- **Sudoku:** Application de Sudoku avec aide à la résolution (https://github.com/Enzo-mor/Sudo-help)
 - **AstroView:**
