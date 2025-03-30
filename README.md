@@ -5,7 +5,7 @@
 - **Langages:** Java, Python, C, Ruby
 - **Web:** JavaScript, TypeScript, HTML, CSS, PHP
 - **Base de Données:** SQL
-- **Outils:** GitHub, VSCode
+- **Outils:** GitHub, VSCode, Angular, Node.js
 
 ## Projets
 
