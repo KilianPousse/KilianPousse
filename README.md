@@ -17,6 +17,7 @@
 
 ### 🏠 Projet personnel:
 - **World-of-Pandia:** Logiciel de simulation d'une population *(Java)*
+- **KLogger:** Package pour gérer les log dans une application *(Java)*
 
 ---
 
@@ -31,7 +32,7 @@ Le but de ce projet est de tester notre compréhension du module en appliquant s
 ---
 
 ### [✏️ Sudo-Help :](https://github.com/Enzo-mor/Sudo-help)
-Sudo-Help est un logiciel conçu pour jouer au Sudoku avec un système d'aide intégré. Ce projet a été réalisé en groupe dans le cadre du module **Génie Logiciel**, sous la supervision de 
+**Sudo-Help** est un logiciel conçu pour jouer au Sudoku avec un système d'aide intégré. Ce projet a été réalisé en groupe dans le cadre du module **Génie Logiciel**, sous la supervision de 
 [Despres Christophe](mailto:Christophe.Despres@univ-lemans.fr) et 
 [Jacoboni Pierre](mailto:Pierre.Jacoboni@univ-lemans.fr). L'objectif était de mettre en pratique nos connaissances en terme de Génie logiciel tout en travaillant en groupe.
 
@@ -44,15 +45,24 @@ Sudo-Help est un logiciel conçu pour jouer au Sudoku avec un système d'aide in
 
 ### [🐼 World of Pandia :](https://github.com/KilianPousse/World-of-Pandia)
 
-World of Pandia est un projet personnel de simulation visant à modéliser l'évolution d'une population d'une espèce fictive appelée les Pandiens. Ces créatures humanoïdes ressemblant à des pandas interagissent entre elles et avec leur environnement pour créer des villages, explorer leur territoire et survivre.
+**World of Pandia** est un projet personnel de simulation visant à modéliser l'évolution d'une population d'une espèce fictive appelée les Pandiens. Ces créatures humanoïdes ressemblant à des pandas interagissent entre elles et avec leur environnement pour créer des villages, explorer leur territoire et survivre.
 
 - **Langage:** Java
 - **Outils utilisés:** Swing, Maven, Javadoc
 
 ---
 
+### [📰 KLogger:](https://github.com/KilianPousse/Klogger)
+
+**KLogger** est un package Java qui permet de manipuler des logs dans les applications Java. Il offre diverses fonctionnalités pour aider les développeurs à écrire des messages de différents niveaux de gravité. Il est également possible de configurer la couleur, et le format des logs.
+
+- **Langage:** Java
+- **Outils utilisés:** Maven, Javadoc, Jackson
+
+---
+
 ### [🏝️ Tomogashi Island :](https://github.com/KilianPousse/Tomogashi_Island)
-Tomogashi Island est un projet de jeu vidéo de simulation de vie intégralement codé en Langage C. L'objectif de ce projet de fin de seconde année était de nous introduire à la conception et au développement en groupe. 
+**Tomogashi Island** est un projet de jeu vidéo de simulation de vie intégralement codé en Langage C. L'objectif de ce projet de fin de seconde année était de nous introduire à la conception et au développement en groupe. 
 
 - **Langage:** Langage C
 - **Outils utilisés:** Génie Logiciel, SDL, Doxygen
@@ -63,7 +73,7 @@ Tomogashi Island est un projet de jeu vidéo de simulation de vie intégralement
 
 ### [🪐 AstroView :](https://github.com/KilianPousse/AstroView)
 
-AstroView est une application web permettant de consulter des informations sur l'astronomie. Elle a été développée dans le cadre des modules **IHM** et **Architecture Web**, sous la supervision de [Renault Valérie](mailto:Valerie.Renault@univ-lemans.fr).
+**AstroView** est une application web permettant de consulter des informations sur l'astronomie. Elle a été développée dans le cadre des modules **IHM** et **Architecture Web**, sous la supervision de [Renault Valérie](mailto:Valerie.Renault@univ-lemans.fr).
 
 - **Langage:** HTML, CSS, JavaScript, TypeScript
 - **Outils utilisés:** Angular, Node.js, Express, Axios
