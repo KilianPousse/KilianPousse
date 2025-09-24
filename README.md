@@ -17,7 +17,6 @@
 
 ### 🏠 Projet personnel:
 - **World-of-Pandia:** Logiciel de simulation d'une population *(Java)*
-- **KLogger:** Package pour gérer les log dans une application *(Java)*
 
 ---
 
@@ -49,15 +48,6 @@ Le but de ce projet est de tester notre compréhension du module en appliquant s
 
 - **Langage:** Java
 - **Outils utilisés:** Swing, Maven, Javadoc
-
----
-
-### [📰 KLogger:](https://github.com/KilianPousse/Klogger)
-
-**KLogger** est un package Java qui permet de manipuler des logs dans les applications Java. Il offre diverses fonctionnalités pour aider les développeurs à écrire des messages de différents niveaux de gravité. Il est également possible de configurer la couleur, et le format des logs.
-
-- **Langage:** Java
-- **Outils utilisés:** Maven, Javadoc, Jackson
 
 ---
 
