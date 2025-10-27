@@ -47,7 +47,7 @@ Le but de ce projet est de tester notre compréhension du module en appliquant s
 ---
 
 ### [💬 Bubble :](https://github.com/KilianPousse/bubble-app)
-**Bubble** est une application web temps réele permettant de discuter entre personnes. ...
+**Bubble** est une application web en temps réel qui permet à plusieurs utilisateurs de communiquer instantanément via une interface simple et intuitive.
 
 - **Langages:** JS, CSS, HTML
 - **Outils:** Node.js, Express.js, React, WebSocket
