@@ -31,6 +31,8 @@ Chaque projet reflète ma volonté d’apprendre, d’expérimenter et de progre
 - **Langages :** Java, XML
 - **Outils :** Android Studio
 
+---
+
 ### [💬 Bubble :](https://github.com/KilianPousse/bubble-app)
 **Bubble** est une application web en temps réel qui permet à plusieurs utilisateurs de communiquer instantanément via une interface simple et intuitive.
 
