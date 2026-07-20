@@ -21,16 +21,21 @@ Chaque projet reflète ma volonté d’apprendre, d’expérimenter et de progre
 
 ### 🏠 Projet personnel:
 - **Bubble:** Application de messagerie *(React, MongoDB, Node.js, JS, ...)*
+- **File Manager:** Application Android de gestion de fichiers *(Projet Android Studio, XML, Java, ...)*
 
 ---
 
-### [🦠 Jeu De La Vie (JDLV) :](https://github.com/KilianPousse/JDLV)
-Ce projet a été réalisé dans le cadre du module **Design Pattern** en troisième année au Mans, sous la supervision de 
-[Despres Christophe](mailto:Christophe.Despres@univ-lemans.fr).
-Le but de ce projet est de tester notre compréhension du module en appliquant ses règles à un logiciel implémentant le Jeu de la Vie de John Conway.
+### [📁 File Manager :](https://github.com/KilianPousse/FIle-Manager-app)
+**File Manager** est une application Android de gestion de fichiers développée avec **Android Studio**. Elle permet de naviger dans les dossiers, ouvrir/renommer/supprimer des fichiers, ...
 
-- **Langages:** Java
-- **Outils utilisés:** Design Pattern, Java Swing, Maven, Javadoc
+- **Langages :** Java, XML
+- **Outils :** Android Studio
+
+### [💬 Bubble :](https://github.com/KilianPousse/bubble-app)
+**Bubble** est une application web en temps réel qui permet à plusieurs utilisateurs de communiquer instantanément via une interface simple et intuitive.
+
+- **Langages:** JS, CSS, HTML
+- **Outils:** Node.js, Express.js, React, WebSocket
 
 ---
 
@@ -46,8 +51,10 @@ Le but de ce projet est de tester notre compréhension du module en appliquant s
 
 ---
 
-### [💬 Bubble :](https://github.com/KilianPousse/bubble-app)
-**Bubble** est une application web en temps réel qui permet à plusieurs utilisateurs de communiquer instantanément via une interface simple et intuitive.
+### [🦠 Jeu De La Vie (JDLV) :](https://github.com/KilianPousse/JDLV)
+Ce projet a été réalisé dans le cadre du module **Design Pattern** en troisième année au Mans, sous la supervision de 
+[Despres Christophe](mailto:Christophe.Despres@univ-lemans.fr).
+Le but de ce projet est de tester notre compréhension du module en appliquant ses règles à un logiciel implémentant le Jeu de la Vie de John Conway.
 
-- **Langages:** JS, CSS, HTML
-- **Outils:** Node.js, Express.js, React, WebSocket
+- **Langages:** Java
+- **Outils utilisés:** Design Pattern, Java Swing, Maven, Javadoc
